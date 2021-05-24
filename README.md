@@ -1,8 +1,8 @@
 # Gilded Rose_Refactoring-Kata
 
-=============================
-Inventory Requirements Specification
-=============================
+
+Inventory Requirements Specification--->
+
 We are a small inn with a prime location in a prominent city run by a friendly innkeeper named Allison. We
 also buy and sell only the finest goods. Unfortunately, our goods are constantly degrading in quality as
 they approach their sell by date. We have a system in place that updates our inventory for us. It was
